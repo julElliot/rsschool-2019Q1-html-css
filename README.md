@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Julia Kozlova
+HTML CSS Basics: https://htmlacademy.ru/profile/id1011213
